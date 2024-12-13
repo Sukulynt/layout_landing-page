@@ -1,21 +1,41 @@
-# Landing page
+# My Bike Landing Page
 
-> ❗❗ You will complete this task in the topic **Landing**.
-> Now just choose a design and do the parts from the videos
+A sleek and modern landing page showcasing B&O, designed with a focus on elegance, functionality, and responsive adaptability.  
 
-Choose a design for your landing page:
-- [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
-- [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
-- [B&O](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-212&t=ZTV6Gl8NzaWkJ4FK-0)
-- [Nothing](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
+## Features
 
-Follow the videos in this and next lessons to implement the page block by block
-- Here is [the design from the video](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6703-88&t=L7eKz5YKLN0m5WxR-0) (❗❗ DO NOT implement this design ❗❗ choose one of the options above ❗❗ ☝️)
-- Start writing styles in the `main.scss` file. It is be explained in the `Sass` lesson
-- **DON'T** try to do it `Pixel Perfect` - implement it the most `simple` way so it looks similar;
-- When done check yourself using the [CHECKLIST](./checklist.md) when finished;
-- Deploy and create a Pull Request with a [DEMO LINK](https://<your_account>.github.io/layout_landing-page/)
+- **Clean Design**: A visually appealing layout to attract users' attention.
+- **Responsive and Adaptive**: Optimized for all devices, including desktops, tablets, and smartphones.
+- **Burger Menu**: A fully functional, accessible burger menu for seamless navigation on smaller screens.
+- **Built with BEM**: Code structured using the BEM (Block, Element, Modifier) methodology for maintainable and scalable styles.
 
-# Tips & Hints
-- Check `background-image: url()` to be relative to the `main.scss`. So should start with `../images`.
-- If some points from the checklist are not relevant to your design, just skip it.
+## Technologies Used
+
+- **HTML**: For the page structure and semantic markup.
+- **SCSS**: For advanced styling, modular CSS, and enhanced maintainability.
+- **BEM Methodology**: Ensures consistent naming and clean, reusable code.
+
+## Live Demo
+
+You can view the live application hosted on GitHub Pages here:
+
+[![Todo App](https://img.shields.io/badge/Live-Demo-blue)](https://eustasthemonk.github.io/my-bike/)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/EustasTheMonk/my-bike.git
+    ```
+2. Navigate to the project directory:
+   ```bash
+   cd my-bike
+    ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
