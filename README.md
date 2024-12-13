@@ -1,4 +1,4 @@
-# My Bike Landing Page
+# My Bang & Olufsen Landing Page
 
 A sleek and modern landing page showcasing B&O, designed with a focus on elegance, functionality, and responsive adaptability.  
 
